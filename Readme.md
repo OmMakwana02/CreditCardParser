@@ -80,8 +80,8 @@ credit_parser/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/credit_parser.git
-   cd credit_parser
+   git clone [https://github.com/yourusername/credit_parser.git](https://github.com/OmMakwana02/CreditCardParser)
+   cd "Credit Card Statement Parser"
    ```
 
 2. **Create a virtual environment** (recommended)

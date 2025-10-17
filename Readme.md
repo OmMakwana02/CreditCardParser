@@ -80,7 +80,7 @@ credit_parser/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/OmMakwana02/CreditCardParser
+   git clone https://github.com/OmMakwana02/CreditCardParser.git
    cd "Credit Card Statement Parser"
    ```
 
